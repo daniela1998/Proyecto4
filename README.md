@@ -3,6 +3,8 @@ Se cuentan con 3 secciones donde se desarrolla el proyecto:
 
   - Modulacion 16-QAM -> modulador () , demodulador (), main()
   - Se aplica la modulación 16qam, sin embargo, no se llegan a los resultados esperados. Para lograrlo el sistema y la implementación deberían acoplarse más a la matemática detrás de este tipo de modulación. 
+
+Se obtienen los siguientes resultados. 
   ![image](https://user-images.githubusercontent.com/22760012/125225331-5b4cf100-e28c-11eb-8921-8011f40ccf80.png)
 ![image](https://user-images.githubusercontent.com/22760012/125225364-69027680-e28c-11eb-9455-85c4626faa18.png)
 
